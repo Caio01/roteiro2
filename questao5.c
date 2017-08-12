@@ -79,7 +79,7 @@ int main()
 
 			case 4:
 
-				contadorM = 0;
+				    contadorM = 0;
 					for(i = 0; i < 10; i++)
 					{
 						if(sexo[i] == 'm' )
